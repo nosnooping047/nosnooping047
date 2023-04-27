@@ -21,7 +21,7 @@ Sou um programador experiente em Lua, com mais de 12 anos de experiência. Tamb�
 
 ## Contato
 
-- linkedin.com/in/lucasfdamaceno047
+- https://www.linkedin.com/in/lucasfdamaceno047
 - nosnooping047@gmail.com
 
 Sinta-se à vontade para me contatar se tiver alguma dúvida, sugestão ou se quiser bater um papo sobre programação!
