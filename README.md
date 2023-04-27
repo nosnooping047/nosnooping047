@@ -1,12 +1,12 @@
-# Olá, eu sou [seu nome] 👋
+# Olá, eu sou Lucas Fernando Damaceno 👋
 
 Sou um programador experiente em Lua, com mais de 12 anos de experiência. Também tenho conhecimento em Java, SQL, Python e Java.
 
 ## Sobre mim
 
-- 💻 Atualmente trabalho como [sua posição atual].
+- 💻 Atualmente trabalho com Programação.
 - 🌱 Estou constantemente aprendendo novas tecnologias e linguagens de programação.
-- 📚 Estudei [sua área de formação] na [sua instituição de ensino].
+- 📚 Estudo Ciência da Computação na UNICID.
 - 💬 Adoro ajudar outros programadores, então sinta-se à vontade para entrar em contato comigo se precisar de ajuda.
 
 ## Linguagens e ferramentas
@@ -16,17 +16,12 @@ Sou um programador experiente em Lua, com mais de 12 anos de experiência. Tamb�
 - SQL
 - Python
 - Git
-
-## Projetos
-
-- [nome do projeto] - [descrição do projeto]
-- [nome do projeto] - [descrição do projeto]
-- [nome do projeto] - [descrição do projeto]
+- Linux
+- Windows
 
 ## Contato
 
-- [Seu site ou blog](link_do_seu_site)
-- [Seu LinkedIn](link_do_seu_linkedin)
-- [Seu e-mail](seu_email)
+- linkedin.com/in/lucasfdamaceno047
+- nosnooping047@gmail.com
 
 Sinta-se à vontade para me contatar se tiver alguma dúvida, sugestão ou se quiser bater um papo sobre programação!
