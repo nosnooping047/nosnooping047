@@ -1,16 +1,32 @@
-### Hi there 👋
+# Olá, eu sou [seu nome] 👋
 
-<!--
-**nosnooping047/nosnooping047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um programador experiente em Lua, com mais de 12 anos de experiência. Também tenho conhecimento em Java, SQL, Python e Java.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---><h1 style="color:red">Verde</h1>
+- 💻 Atualmente trabalho como [sua posição atual].
+- 🌱 Estou constantemente aprendendo novas tecnologias e linguagens de programação.
+- 📚 Estudei [sua área de formação] na [sua instituição de ensino].
+- 💬 Adoro ajudar outros programadores, então sinta-se à vontade para entrar em contato comigo se precisar de ajuda.
+
+## Linguagens e ferramentas
+
+- Lua
+- Java
+- SQL
+- Python
+- Git
+
+## Projetos
+
+- [nome do projeto] - [descrição do projeto]
+- [nome do projeto] - [descrição do projeto]
+- [nome do projeto] - [descrição do projeto]
+
+## Contato
+
+- [Seu site ou blog](link_do_seu_site)
+- [Seu LinkedIn](link_do_seu_linkedin)
+- [Seu e-mail](seu_email)
+
+Sinta-se à vontade para me contatar se tiver alguma dúvida, sugestão ou se quiser bater um papo sobre programação!
