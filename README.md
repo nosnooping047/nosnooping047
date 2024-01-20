@@ -1,4 +1,4 @@
-# Olá, eu sou Lucas Fernando Damaceno 👋
+# Olá, eu sou Lucas 👋
 
 Sou um programador experiente em Lua, com mais de 12 anos de experiência. Também tenho conhecimento em Java, SQL, Python e Java.
 
