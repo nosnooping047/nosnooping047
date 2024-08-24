@@ -1,6 +1,6 @@
 # Olá, eu sou Lucas 👋
 
-Sou um programador experiente em Lua, com mais de 12 anos de experiência. Também tenho conhecimento em Java, SQL, Python e Java.
+Sou um programador experiente em Lua, com mais de 12 anos de experiência. Também tenho conhecimento em SQL, Python e Java.
 
 ## Sobre mim
 
