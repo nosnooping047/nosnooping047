@@ -26,7 +26,8 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 ## Projetos em Destaque
 
 ### E-commerce de Tecnologia
-- ![Zeus Tech](https://www.zeustechtech.com/static/images/zeus.ico): Um e-commerce de produtos de tecnologia que desenvolvi. Confira o projeto para ver como implementei soluções modernas para a venda de produtos online.
+- **[Zeus Tech](https://www.zeustechtech.com/ProdutosApp/produtos/)**: Um e-commerce de produtos de tecnologia que desenvolvi. Confira o projeto para ver como implementei soluções modernas para a venda de produtos online.
+
 
 
 ## Contato
