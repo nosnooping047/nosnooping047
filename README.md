@@ -23,6 +23,11 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 - ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
+## Projetos em Destaque
+
+### E-commerce de Tecnologia
+- **[ZeusTech](https://www.zeustechtech.com/ProdutosApp/produtos/)**: Um e-commerce de produtos de tecnologia que desenvolvi. Confira o projeto para ver como implementei soluções modernas para a venda de produtos online.
+
 ## Contato
 
 - 📧 **Email**: [nosnooping047@gmail.com](mailto:nosnooping047@gmail.com)
