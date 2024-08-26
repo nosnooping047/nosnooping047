@@ -14,7 +14,7 @@ Sou um desenvolvedor com experiência em uma ampla gama de tecnologias. Atualmen
 Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
 ### Linguagens de Programação
-- ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 - ![Lua](https://img.shields.io/badge/-Lua-2c2d72?logo=lua&logoColor=white)
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
